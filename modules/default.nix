@@ -3,5 +3,6 @@
 {
   imports = [
     ./nsd.nix
+    ./bind.nix
   ];
 }
